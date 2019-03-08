@@ -8,4 +8,3 @@ def hello_t(array)
 
   array
 end
-
